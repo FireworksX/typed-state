@@ -1,5 +1,12 @@
 # @graph-state/core
 
+## 0.10.1
+
+### Patch Changes
+
+- 6f52fbd: added optional param updateSelector to control notify
+- 6e9b263: Add onDebugEvent. Add new profiler plugin.
+
 ## 0.10.0
 
 ### Minor Changes

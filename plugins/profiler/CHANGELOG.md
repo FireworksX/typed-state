@@ -1,5 +1,17 @@
 # @graph-state/plugin-logger
 
+## 0.1.0
+
+### Minor Changes
+
+- 6e9b263: Add onDebugEvent. Add new profiler plugin.
+
+### Patch Changes
+
+- Updated dependencies [6f52fbd]
+- Updated dependencies [6e9b263]
+  - @graph-state/core@0.10.1
+
 ## 0.2.2
 
 ### Patch Changes

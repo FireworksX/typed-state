@@ -1,5 +1,15 @@
 # @graph-state/react
 
+## 0.6.2
+
+### Patch Changes
+
+- 6f52fbd: added optional param updateSelector to control notify
+- 0e59022: useGraphEffect can work with an array
+- Updated dependencies [6f52fbd]
+- Updated dependencies [6e9b263]
+  - @graph-state/core@0.10.1
+
 ## 0.6.1
 
 ### Patch Changes
